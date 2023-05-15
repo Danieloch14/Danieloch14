@@ -1,6 +1,6 @@
-# Daniel Efrain Aimacaña Checa
-
-Estudiante de Ingeniería de Software en la Escuela Politécnica Nacional
+<h2>¡Hola, mi nombre es Daniel E. Aimacaña! 😎</h2>
+<p><em>Soy estudiante de Ingniería de Software en la <a href="http://www.unb.br](https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> 
+</em></p>
 
 ## Experiencia
 
@@ -13,12 +13,12 @@ Estudiante de Ingeniería de Software en la Escuela Politécnica Nacional
 - Frameworks: Angular, React
 
 ## Contacto
+- [![Whatsapp Chat](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59396270867/)🚀
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-e-aimaca%C3%B1a-758ba9216/)🧑‍💻
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniel.e.aimacana?igshid=NTc4MTIwNjQ2YQ==)🧑‍
 
-- Teléfono: [Chat](https://wa.me/59396270867/)
-- LinkedIn: [Daniel E. Aimacaña](https://www.linkedin.com/in/daniel-e-aimaca%C3%B1a-758ba9216/)
-- Instagram: [Daniel E. Aimacaña](https://instagram.com/daniel.e.aimacana?igshid=NTc4MTIwNjQ2YQ==)
 
-<h2> Hi, I'm Daniel E. Aimacaña! 😎</h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner Student at <a href="http://www.unb.br](https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> 
 </em></p>
