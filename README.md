@@ -1,3 +1,23 @@
+# Daniel Efrain Aimacaña Checa
+
+Estudiante de Ingeniería de Software en la Escuela Politécnica Nacional
+
+## Experiencia
+
+- Proyectos de desarrollo de software en la Empresa Pública EPN TECH
+- Participación en equipos de trabajo utilizando Scrum como marco de trabajo
+
+## Habilidades
+
+- Lenguajes de programación: Java, SQL, JavaScript, TypeScript, HTML, CSS, Python
+- Frameworks: Angular, React
+
+## Contacto
+
+- Teléfono: +593 96270867
+- LinkedIn: [Daniel E. Aimacaña](https://www.linkedin.com/in/daniel-e-aimaca%C3%B1a-758ba9216/)
+- Instagram: [daniel.e.aimacana](https://instagram.com/daniel.e.aimacana?igshid=NTc4MTIwNjQ2YQ==)
+
 <h2> Hi, I'm Daniel E. Aimacaña! 😎</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner Student at <a href="http://www.unb.br](https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> 
