@@ -1,5 +1,5 @@
 <h2>Hello there! I'm Daniel E. Aimacaña! 😎 </h2>
-<p><em>Currently Software Engineering at <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a></em></p>
+<p><em>Currently Software Engineer at <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a></em></p>
 
 ## Experience
 
