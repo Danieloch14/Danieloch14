@@ -8,8 +8,8 @@
 
 ## Skills
 
-- Programming Languages: Java, SQL, JavaScript, TypeScript, HTML, CSS, Python
-- Frameworks: Angular, React
+- Programming Languages: Java, SQL, JavaScript, TypeScript, HTML, CSS, Python and C#
+- Frameworks: Angular, React, Springboot, C# NetCore.
 
 
 
