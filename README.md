@@ -20,7 +20,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieloch14&layout=compact&custom_title=Daniel%20E.%20Aimacaña%20-%20Most%20Used%20Languages:&theme=dark&hide_border=true&hide=visual%20basic%20.net,php,c%2B%2B&card_width=400)<!-- Cat typing GIF :p -->
 <img src="./catTyping.gif" width="300px" height="200px" align="right">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danieloch14&show_icons=true&theme=dark&hide_border=true&custom_title=Daniel%20E.%20Aimacaña%20-%20GitHub%20Stats:&include_all_commits=true&hide=issues,contribs&card_width=500)
+
 
 ---
 ## Contact
